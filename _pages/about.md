@@ -22,23 +22,21 @@ My name is Mingzhen Li, and my Chinese name is 李明真 (Lee Ming-Jen). I am a 
 My research interests include computer vision, particularly its applications in healthcare (such as medical imaging and patient activity recognition), as well as time series analysis and foundation models.
 
 
-# 🔥 News
-- *2024.09*: &nbsp;🎉🎉 I start my Ph.D in Computer Science at Northwestern. 
-- *2024.05*: &nbsp;🎉🎉 I graduate from WashU with honors. 
+# News
+- *2024.09*: I start my Ph.D in Computer Science at Northwestern. 
+- *2024.05*: I graduate from WashU with honors. 
 
-# 📝 Publications 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+# Publications 
+- [Real-Time Human Action Recognition on Embedded Platforms](https://arxiv.org/abs/2409.05662), Ruiqi Wang, Zichen Wang, Peiqi Gao, **Mingzhen Li**, Jaehwan Jeong, Yihang Xu, Yejin Lee, Carolyn M. Baum, Lisa Tabor Connor, Chenyang Lu, under submission
+- [Source-free domain adaptive segmentation with class-balanced complementary self-training](https://www.sciencedirect.com/science/article/pii/S0933365723002087), Yongsong Huang, Wanqing Xie, Mingzhen Li, Ethan Xiao, Jane You, Xiaofeng Liu, **Artificial Intelligence in Medicine 2023**
+- [Vicinal feature statistics augmentation for federated 3d medical volume segmentation](https://link.springer.com/chapter/10.1007/978-3-031-34048-2_28), Yongsong Huang, Wanqing Xie, Mingzhen Li, Mingmei Cheng, Jinzhou Wu, Weixiao Wang, Jane You, Xiaofeng Liu, **Information Processing in Medical Imaging 2023**
+- [Inducing semantic hierarchy structure in empirical risk minimization with optimal transport measures](https://www.sciencedirect.com/science/article/pii/S0925231223001315), Wanqing Xie, Yubin Ge, Site Li, **Mingzhen Li**, Xuyang Li, Zhenhua Guo, Jane You, Xiaofeng Liu, **Neurocomputing 2023**
+- [Learn Complementary Pseudo-label for Source-free Domain Adaptive Medical Segmentation](https://github.comhttps://www.cse.cuhk.edu.hk/~qdou/public/medneurips2022/7.pdf), Wanqing Xie, **Mingzhen Li**, Jinzhou Wu, Yongsong Huang, Yuanyuan Bu, Jane You, Xiaofeng Liu, **NeurIPS Workshop 2022**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# Honors and Awards
+- *2024.05* Graduate with Engineering Honors: Megna Cum Laude.
+- *2024.05* Graduate with dinstinction from Washington University, Department of Mathematics.
+- *2024.04* Research Excellence Award from Washington University Mckelvey School of Engineering.
+- *2022.06* Freiwald Scholarship from Washington University, Department of Mathematics.
 
 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.

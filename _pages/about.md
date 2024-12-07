@@ -33,7 +33,7 @@ My research interests include computer vision, particularly its applications in 
 - [Inducing semantic hierarchy structure in empirical risk minimization with optimal transport measures](https://www.sciencedirect.com/science/article/pii/S0925231223001315), Wanqing Xie, Yubin Ge, Site Li, **Mingzhen Li**, Xuyang Li, Zhenhua Guo, Jane You, Xiaofeng Liu, *Neurocomputing 2023*
 - [Learn Complementary Pseudo-label for Source-free Domain Adaptive Medical Segmentation](https://github.comhttps://www.cse.cuhk.edu.hk/~qdou/public/medneurips2022/7.pdf), Wanqing Xie, **Mingzhen Li**, Jinzhou Wu, Yongsong Huang, Yuanyuan Bu, Jane You, Xiaofeng Liu, *NeurIPS Workshop 2022*
 
-# 💻 Service
+# 💻 Services
 - *Spring 2024* WashU, CSE 517 Machine Learning, Teaching Assistant
 - *Fall 2022* WashU, Math 4011 Introduction to Analysis, Grader
 

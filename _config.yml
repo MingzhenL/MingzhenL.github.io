@@ -26,7 +26,7 @@ author:
   bio              : "Northwestern University"
   location         : "Evanston, IL, U.S."
   employer         :
-  pubmed           : "314-319-5195"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=dnEHMjIAAAAJ&hl=en"
   email            : "MingzhenLi2029@u.nothwestern.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "www.linkedin.com/in/mingzhen-li-83983118a"
+  linkedin         : "https://www.linkedin.com/in/mingzhen-li-83983118a/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :

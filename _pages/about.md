@@ -15,6 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<span class='anchor' id='about-me'></span>
 
 My name is Mingzhen Li, and my Chinese name is 李明真 (Lee Ming-Jen). I am a first-year Ph.D student in Computer Science at Northwestern University. I received my Bachelor of Science double major in Computer Science and Mathematics from Washington University in St. Louis, where I was honored to be advised by Prof. <a href='https://www.cse.wustl.edu/~lu/'>Chenyang Lu</a>.
 

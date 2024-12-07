@@ -19,7 +19,7 @@ redirect_from:
 
 My name is Mingzhen Li, and my Chinese name is 李明真 (Lee Ming-Jen). I am a first-year Ph.D student in Computer Science at Northwestern University. I received my Bachelor of Science double major in Computer Science and Mathematics from Washington University in St. Louis, where I was honored to be advised by Prof. <a href='https://www.cse.wustl.edu/~lu/'>Chenyang Lu</a>.
 
-My research interests include computer vision, particularly its applications in healthcare (such as medical imaging and patient activity recognition), as well as time series analysis and foundation models.
+My research interests include computer vision, particularly its applications in healthcare (such as medical imaging and patient activity recognition), as well as time series analysis and foundation models. I am open to all kinds of collaboration. Please contact me if you are interested in my research.
 
 
 # 🗓 News
@@ -34,8 +34,8 @@ My research interests include computer vision, particularly its applications in 
 - [Learn Complementary Pseudo-label for Source-free Domain Adaptive Medical Segmentation](https://github.comhttps://www.cse.cuhk.edu.hk/~qdou/public/medneurips2022/7.pdf), Wanqing Xie, **Mingzhen Li**, Jinzhou Wu, Yongsong Huang, Yuanyuan Bu, Jane You, Xiaofeng Liu, *NeurIPS Workshop 2022*
 
 # 💻 Services
-- *Spring 2024* WashU, CSE 517 Machine Learning, Teaching Assistant
-- *Fall 2022* WashU, Math 4011 Introduction to Analysis, Grader
+- *Spring 2024* (WashU) CSE 517 Machine Learning, Teaching Assistant
+- *Fall 2022* (WashU) Math 4011 Introduction to Analysis, Grader
 
 # 🎖 Honors and Awards
 - *2024.05* Graduate with Engineering Honors: Megna Cum Laude.

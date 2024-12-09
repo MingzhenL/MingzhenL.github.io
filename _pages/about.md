@@ -31,7 +31,7 @@ My research interests include computer vision, particularly its applications in 
 - [Source-free domain adaptive segmentation with class-balanced complementary self-training](https://www.sciencedirect.com/science/article/pii/S0933365723002087), Yongsong Huang, Wanqing Xie, **Mingzhen Li**, Ethan Xiao, Jane You, Xiaofeng Liu, *Artificial Intelligence in Medicine 2023*
 - [Vicinal feature statistics augmentation for federated 3d medical volume segmentation](https://link.springer.com/chapter/10.1007/978-3-031-34048-2_28), Yongsong Huang, Wanqing Xie, **Mingzhen Li**, Mingmei Cheng, Jinzhou Wu, Weixiao Wang, Jane You, Xiaofeng Liu, *Information Processing in Medical Imaging 2023*
 - [Inducing semantic hierarchy structure in empirical risk minimization with optimal transport measures](https://www.sciencedirect.com/science/article/pii/S0925231223001315), Wanqing Xie, Yubin Ge, Site Li, **Mingzhen Li**, Xuyang Li, Zhenhua Guo, Jane You, Xiaofeng Liu, *Neurocomputing 2023*
-- [Learn Complementary Pseudo-label for Source-free Domain Adaptive Medical Segmentation](https://github.comhttps://www.cse.cuhk.edu.hk/~qdou/public/medneurips2022/7.pdf), Wanqing Xie, **Mingzhen Li**, Jinzhou Wu, Yongsong Huang, Yuanyuan Bu, Jane You, Xiaofeng Liu, *NeurIPS Workshop 2022*
+- [Learn Complementary Pseudo-label for Source-free Domain Adaptive Medical Segmentation](https://www.cse.cuhk.edu.hk/~qdou/public/medneurips2022/7.pdf), Wanqing Xie, **Mingzhen Li**, Jinzhou Wu, Yongsong Huang, Yuanyuan Bu, Jane You, Xiaofeng Liu, *NeurIPS Workshop 2022*
 
 # 💻 Services
 - *Spring 2024* (WashU) CSE 517 Machine Learning, Teaching Assistant

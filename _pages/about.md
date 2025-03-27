@@ -24,7 +24,7 @@ My research interests include computer vision, particularly its applications in 
 
 # 🗓 News
 - *2024.09*: I start my Ph.D in Computer Science at Northwestern. 
-- *2024.05*: I graduate from WashU with honors. 
+- *2024.05*: I graduate from WashU. 
 
 # 📄 Publications 
 - [Real-Time Human Action Recognition on Embedded Platforms](https://arxiv.org/abs/2409.05662), Ruiqi Wang, Zichen Wang, Peiqi Gao, **Mingzhen Li**, Jaehwan Jeong, Yihang Xu, Yejin Lee, Carolyn M. Baum, Lisa Tabor Connor, Chenyang Lu, *under submission*

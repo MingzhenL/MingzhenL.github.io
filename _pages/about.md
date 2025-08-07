@@ -27,7 +27,7 @@ My research interests include computer vision, particularly its applications in 
 - *2024.05*: I graduate from WashU. 
 
 # 📄 Publications 
-- [Real-Time Human Action Recognition on Embedded Platforms](https://arxiv.org/abs/2409.05662), Ruiqi Wang, Zichen Wang, Peiqi Gao, **Mingzhen Li**, Jaehwan Jeong, Yihang Xu, Yejin Lee, Carolyn M. Baum, Lisa Tabor Connor, Chenyang Lu, *under submission*
+- [Real-Time Human Action Recognition on Embedded Platforms](https://arxiv.org/abs/2409.05662), Ruiqi Wang, Zichen Wang, Peiqi Gao, **Mingzhen Li**, Jaehwan Jeong, Yihang Xu, Yejin Lee, Carolyn M. Baum, Lisa Tabor Connor, Chenyang Lu, *EMSOFT'25*
 - [Source-free domain adaptive segmentation with class-balanced complementary self-training](https://www.sciencedirect.com/science/article/pii/S0933365723002087), Yongsong Huang, Wanqing Xie, **Mingzhen Li**, Ethan Xiao, Jane You, Xiaofeng Liu, *Artificial Intelligence in Medicine 2023*
 - [Vicinal feature statistics augmentation for federated 3d medical volume segmentation](https://link.springer.com/chapter/10.1007/978-3-031-34048-2_28), Yongsong Huang, Wanqing Xie, **Mingzhen Li**, Mingmei Cheng, Jinzhou Wu, Weixiao Wang, Jane You, Xiaofeng Liu, *Information Processing in Medical Imaging 2023*
 - [Inducing semantic hierarchy structure in empirical risk minimization with optimal transport measures](https://www.sciencedirect.com/science/article/pii/S0925231223001315), Wanqing Xie, Yubin Ge, Site Li, **Mingzhen Li**, Xuyang Li, Zhenhua Guo, Jane You, Xiaofeng Liu, *Neurocomputing 2023*

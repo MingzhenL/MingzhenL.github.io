@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Mingzhen Li (李明真 Lee Ming-Jen). I am a first-year Ph.D student in Computer Science at Northwestern University, co-advised by Prof. <a href='https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/katsaggelos-aggelos.html'>Aggelos K. Katsaggelos</a> at McCormick School of Engineering and Prof. <a href='https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=34612'>Daniel Kim</a> at Feinberg School of Medicine. I received my Bachelor of Science double major in Computer Science and Mathematics from Washington University in St. Louis, where I was honored to be advised by Prof. <a href='https://www.cse.wustl.edu/~lu/'>Chenyang Lu</a>.
+I am a second-year Ph.D student in Electrical and Computer Engineering at Northwestern University, co-advised by Prof. <a href='https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/katsaggelos-aggelos.html'>Aggelos K. Katsaggelos</a> at McCormick School of Engineering and Prof. <a href='https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=34612'>Daniel Kim</a> at Feinberg School of Medicine. I received my Bachelor of Science double major in Computer Science and Mathematics from Washington University in St. Louis, where I was honored to be advised by Prof. <a href='https://www.cse.wustl.edu/~lu/'>Chenyang Lu</a>.
 
 My research interests include computer vision, particularly its applications in healthcare (such as medical imaging and patient activity recognition), as well as time series analysis and foundation models. I am open to all kinds of collaboration. Please contact me if you are interested in my research.
 

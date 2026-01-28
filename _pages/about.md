@@ -27,7 +27,7 @@ My research interests include computer vision, particularly its applications in 
 - *2024.05*: I graduate from WashU. 
 
 # 📄 Publications 
-- [Vision-Language Enhanced Foundation Model for Semi-supervised Medical Image Segmentation](https://arxiv.org/abs/2511.19759), Jiaqi Guo, **Mingzhen Li** (first co-author), Hanyu Su, Santiago López, Leixiaozi Fan, Daniel Kim, Aggelos Katsaggelos *Under Review (We will release our code soon!)*
+- [Vision-Language Enhanced Foundation Model for Semi-supervised Medical Image Segmentation](https://arxiv.org/abs/2511.19759), Jiaqi Guo, **Mingzhen Li** (first co-author), Hanyu Su, Santiago López, Leixiaozi Fan, Daniel Kim, Aggelos Katsaggelos, *Under Review (We will release our code soon!)*
 - [Real-Time Human Action Recognition on Embedded Platforms](https://arxiv.org/abs/2409.05662), Ruiqi Wang, Zichen Wang, Peiqi Gao, **Mingzhen Li**, Jaehwan Jeong, Yihang Xu, Yejin Lee, Carolyn M. Baum, Lisa Tabor Connor, Chenyang Lu, *EMSOFT'25*
 - [Source-free domain adaptive segmentation with class-balanced complementary self-training](https://www.sciencedirect.com/science/article/pii/S0933365723002087), Yongsong Huang, Wanqing Xie, **Mingzhen Li**, Ethan Xiao, Jane You, Xiaofeng Liu, *Artificial Intelligence in Medicine 2023*
 - [Vicinal feature statistics augmentation for federated 3d medical volume segmentation](https://link.springer.com/chapter/10.1007/978-3-031-34048-2_28), Yongsong Huang, Wanqing Xie, **Mingzhen Li**, Mingmei Cheng, Jinzhou Wu, Weixiao Wang, Jane You, Xiaofeng Liu, *Information Processing in Medical Imaging 2023*
